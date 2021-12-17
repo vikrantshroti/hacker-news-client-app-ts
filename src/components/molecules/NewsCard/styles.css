@@ -1,0 +1,34 @@
+.nc-index {
+  color: grey;
+}
+
+.nc-url {
+  color: grey;
+  font-size: small;
+  margin-left: 5px;
+}
+
+.nc-by {
+  color: grey;
+  font-size: x-small;
+}
+
+.nc-time {
+  color: grey;
+  font-size: x-small;
+}
+
+.nc-hide {
+  color: grey;
+  font-size: x-small;
+}
+
+.nc-nl {
+  color: grey;
+  font-size: x-small;
+}
+
+.nc-hide-past-dicsuss {
+  color: grey;
+  font-size: x-small;
+}

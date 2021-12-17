@@ -1,0 +1,22 @@
+.header-container {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: auto 1fr;
+  background-color: orangered;
+  text-decoration: none;
+}
+
+.header-container-nl-lwt {
+  display: flex;
+  font-weight: 800;
+  margin-left: 4px;
+  margin-right: 10px;
+}
+
+.header-container-nl-acn {
+  margin-right: 5px;
+}
+
+.header-container-nl {
+  margin-right: 5px;
+}

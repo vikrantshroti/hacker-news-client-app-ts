@@ -1,0 +1,18 @@
+.cc-comments-by {
+  color: grey;
+  font-size: small;
+}
+
+.cc-comments-time {
+  color: grey;
+  font-size: small;
+}
+
+.cc-reply {
+  color: grey;
+  font-size: small;
+}
+
+.cc-comments-card {
+  padding-left: 20;
+}
