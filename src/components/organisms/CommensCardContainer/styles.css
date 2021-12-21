@@ -1,0 +1,10 @@
+.ccc-container {
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.ccc-cc-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
