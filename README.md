@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Hacker News Client App TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: This project was part of hackathon and it needs more CSS work.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [storybook](https://storybook.js.org/).
 
 ## Available Scripts
 
