@@ -1,7 +1,10 @@
 # Hacker News Client App
 
-Note: This project was part of hackathon and it needs more CSS work.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [TypeScript](https://typescriptlang.org/) and [storybook](https://storybook.js.org/).
+
+This project is deployed [here](https://nifty-northcutt-e10290.netlify.app/).
+
+Note: This project was part of hackathon and it needs more CSS work.
 
 ## Available Scripts
 
